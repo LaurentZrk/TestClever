@@ -1,0 +1,11 @@
+C:\Beaulin_Personal\Dahlia\MyTecBits\MyTecBits-ASP.NET-Bootstrap-Sample\MyTecBits-ASP.NET-Bootstrap-Sample\bin\MyTecBits-ASP.NET-Bootstrap-Sample.dll
+C:\Beaulin_Personal\Dahlia\MyTecBits\MyTecBits-ASP.NET-Bootstrap-Sample\MyTecBits-ASP.NET-Bootstrap-Sample\bin\MyTecBits-ASP.NET-Bootstrap-Sample.pdb
+C:\Beaulin_Personal\Dahlia\MyTecBits\MyTecBits-ASP.NET-Bootstrap-Sample\MyTecBits-ASP.NET-Bootstrap-Sample\obj\Debug\MyTecBits-ASP.NET-Bootstrap-Sample.dll
+C:\Beaulin_Personal\Dahlia\MyTecBits\MyTecBits-ASP.NET-Bootstrap-Sample\MyTecBits-ASP.NET-Bootstrap-Sample\obj\Debug\MyTecBits-ASP.NET-Bootstrap-Sample.pdb
+C:\Beaulin_Personal\Dahlia\MyTecBits\MyTecBits-ASP.NET-Bootstrap-Sample\MyTecBits-ASP.NET-Bootstrap-Sample\obj\Debug\MyTecBits-ASP.NET-Bootstrap-Sample.csprojResolveAssemblyReference.cache
+C:\Users\Laurent\Downloads\ASP.NET-Bootstrap3.0.0-Sample-master\ASP.NET-Bootstrap3.0.0-Sample-master\MyTecBits-ASP.NET-Bootstrap-Sample\bin\MyTecBits-ASP.NET-Bootstrap-Sample.dll.config
+C:\Users\Laurent\Downloads\ASP.NET-Bootstrap3.0.0-Sample-master\ASP.NET-Bootstrap3.0.0-Sample-master\MyTecBits-ASP.NET-Bootstrap-Sample\bin\MyTecBits-ASP.NET-Bootstrap-Sample.dll
+C:\Users\Laurent\Downloads\ASP.NET-Bootstrap3.0.0-Sample-master\ASP.NET-Bootstrap3.0.0-Sample-master\MyTecBits-ASP.NET-Bootstrap-Sample\bin\MyTecBits-ASP.NET-Bootstrap-Sample.pdb
+C:\Users\Laurent\Downloads\ASP.NET-Bootstrap3.0.0-Sample-master\ASP.NET-Bootstrap3.0.0-Sample-master\MyTecBits-ASP.NET-Bootstrap-Sample\obj\Debug\MyTecBits-ASP.NET-Bootstrap-Sample.csprojResolveAssemblyReference.cache
+C:\Users\Laurent\Downloads\ASP.NET-Bootstrap3.0.0-Sample-master\ASP.NET-Bootstrap3.0.0-Sample-master\MyTecBits-ASP.NET-Bootstrap-Sample\obj\Debug\MyTecBits-ASP.NET-Bootstrap-Sample.dll
+C:\Users\Laurent\Downloads\ASP.NET-Bootstrap3.0.0-Sample-master\ASP.NET-Bootstrap3.0.0-Sample-master\MyTecBits-ASP.NET-Bootstrap-Sample\obj\Debug\MyTecBits-ASP.NET-Bootstrap-Sample.pdb
